@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="22900" started-at="2020-05-14T16:07:34 EDT" finished-at="2020-05-14T16:07:57 EDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="22900" started-at="2020-05-14T16:07:34 EDT" finished-at="2020-05-14T16:07:57 EDT">
+      <class name="com.test.GoogleTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.test.GoogleTest@6b09bb57]" name="setUp" is-config="true" duration-ms="7547" started-at="2020-05-14T16:07:34 EDT" finished-at="2020-05-14T16:07:41 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="googleTitleTest()[pri:1, instance:com.test.GoogleTest@6b09bb57]" name="googleTitleTest" duration-ms="11" started-at="2020-05-14T16:07:41 EDT" finished-at="2020-05-14T16:07:41 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.test.GoogleTest@6b09bb57]" name="tearDown" is-config="true" duration-ms="1129" started-at="2020-05-14T16:07:41 EDT" finished-at="2020-05-14T16:07:42 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.test.GoogleTest@6b09bb57]" name="setUp" is-config="true" duration-ms="6361" started-at="2020-05-14T16:07:42 EDT" finished-at="2020-05-14T16:07:49 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="googleLogoTest()[pri:2, instance:com.test.GoogleTest@6b09bb57]" name="googleLogoTest" duration-ms="50" started-at="2020-05-14T16:07:49 EDT" finished-at="2020-05-14T16:07:49 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleLogoTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.test.GoogleTest@6b09bb57]" name="tearDown" is-config="true" duration-ms="665" started-at="2020-05-14T16:07:49 EDT" finished-at="2020-05-14T16:07:49 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.test.GoogleTest@6b09bb57]" name="setUp" is-config="true" duration-ms="6340" started-at="2020-05-14T16:07:49 EDT" finished-at="2020-05-14T16:07:56 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="gMailLinkTest()[pri:3, instance:com.test.GoogleTest@6b09bb57]" name="gMailLinkTest" duration-ms="35" started-at="2020-05-14T16:07:56 EDT" finished-at="2020-05-14T16:07:56 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gMailLinkTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.test.GoogleTest@6b09bb57]" name="tearDown" is-config="true" duration-ms="735" started-at="2020-05-14T16:07:56 EDT" finished-at="2020-05-14T16:07:57 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.test.GoogleTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
